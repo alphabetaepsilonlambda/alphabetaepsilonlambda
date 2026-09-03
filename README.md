@@ -1,5 +1,3 @@
-hey i'm abel
-
 I'm a recent Berkeley graduate with a degree in CS and Theater.
 I believe great products change how people see the world and how they see themselves.
 
