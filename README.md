@@ -1,7 +1,9 @@
 hey i'm abel
 
-I've developed software for teams at different scales, from startups and academic research groups to large organizations. My work spans cloud cybersecurity, political campaigns, bioengineering, and economic research, but is centered around building systems that process data at scale. I'm especially interested in integrating AI into existing workflows and building end-to-end systems that are reliable, secure, and computationally efficient.
+I'm a recent Berkeley graduate with a degree in CS and Theater.
+I believe great products change how people see the world and how they see themselves.
 
-My background in theater and political campaigns has shaped how I think about product. Understanding how people behave, communicate, and collaborate is central to my work, and I'm excited to build products that influence how people utilize technology.
+I have previously built product and software workflows for a range of enterprises across domains. The work spans across domains (cybersecurity at HPE to campaign operations at Universe) and enterprise sizes (academic labs and startups to F500 firms).
+My experience in political campaigns, on ground leadership, and a decade of involvement in various forms of art is central to how I approach design. A software is only as effective as its interface. Building products that people can not only use effortlessly but is ideally integrated into their daily lives is the north star.
 
-Always experimenting with side projects using new frameworks and tools.
+Currently building Campaign Watch, an automated US election research platform and part of a founding team working on AI agent policy/interaction methodology.
